@@ -18,7 +18,11 @@ The models were evaluated using ROC-AUC, sensitivity, specificity, F1-score, and
 
 ## Implementation
 
-The Jupyter notebook containing the Python implementation, preprocessing pipeline, training, and evaluation will be added to this repository.
+The complete Jupyter notebook containing the Python implementation, preprocessing pipeline, model architectures, and evaluation methodology is available in this repository.
+
+The BreaKHis dataset and trained model checkpoints are not included. Reproducing the evaluation requires obtaining these files separately and configuring the execution environment.
+
+An executed HTML version of the notebook, including experimental results and visualizations, is provided separately for academic review.
 
 ## Research Status
 
